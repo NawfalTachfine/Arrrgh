@@ -13,6 +13,3 @@ This project is a collection of code snippets, used to experiment with the R lan
 + Statistical Tests
 + Survival Analysis
 + Data Wrangling
-
-### Topics to be covered
-+ ...
